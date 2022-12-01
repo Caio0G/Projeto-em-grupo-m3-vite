@@ -1,0 +1,23 @@
+*{margin: 0;
+padding: 0;}
+
+
+header{background-color: yellow;}
+#menu{background-color: orange;}
+#menu ul{list-style-type: none;
+}
+#menu ul li{
+  display: inline;
+  margin: 2px;
+}
+
+main{background-color: olivedrab}
+
+footer{background-color: orangered;}
+
+.poster{width: 100%;
+margin: 0 auto;
+min-height: 100vh;
+display: flex;
+align-items: center;
+justify-content: center;}
