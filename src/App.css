@@ -1,0 +1,13 @@
+
+header{background-color: yellow;}
+#menu{background-color: orange;}
+#menu ul{list-style-type: none;
+}
+#menu ul li{
+  display: inline;
+  margin: 2px;
+}
+
+main{background-color: olivedrab}
+
+footer{background-color: orangered;}
