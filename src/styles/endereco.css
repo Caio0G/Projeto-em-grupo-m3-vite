@@ -1,0 +1,20 @@
+#campo{margin-top: -2px;
+color: #fff;
+}
+
+/*Campo de input e botão de pesquisa*/
+
+#pesquisar{margin-top: 150px;
+margin-bottom: 50px;}
+
+#digitar{margin-left: 10px;}
+
+#botao{float: right;
+margin-right: 1600px;
+margin-top: -28px;}
+
+/*Lista de cinemass*/
+.lista{background-color: rgb(199, 114, 104);
+font-size: 22px;
+color: rgb(255, 255, 255);
+margin-bottom: 15px;}
